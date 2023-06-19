@@ -1,11 +1,11 @@
-About r-cpgassoc
-================
+About r-cpgassoc-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-cpgassoc-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=CpGassoc
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-cpgassoc-feedstock/blob/main/LICENSE.txt)
 
 Summary: Is designed to test for association between methylation at CpG sites across the genome and a phenotype of interest, adjusting for any relevant covariates. The package can perform standard analyses of large datasets very quickly with no need to impute the data. It can also handle mixed effects models with chip or batch entering the model as a random intercept. Also includes tools to apply quality control filters, perform permutation tests, and create QQ plots, manhattan plots, and scatterplots for individual CpG sites.
 
